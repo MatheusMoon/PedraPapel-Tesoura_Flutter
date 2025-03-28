@@ -20,7 +20,7 @@ Este é um jogo de **Pedra, Papel e Tesoura** desenvolvido em **Flutter**. O jog
 - Sistema de pontuação atualizado automaticamente
 
 ## 📸 Capturas de Tela
-![Tela do Jogo](assets/screenshots/image.png)
+![Tela do Jogo](assets/images/image.png)
 
 ## 🛠 Como Executar o Projeto
 1. **Clone este repositório**
